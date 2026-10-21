@@ -15,33 +15,60 @@ On the PCB I received, LKU and LKV were also open.
 On the board I received,
 
 C30 	22nF		Not Required for Saga ULA
+
 C32 	100nF		Not Required for Saga
+
 C35 	100nF		Not Required for Saga, Saga 10nF
+
 C52/C53 150pF		Not Required for Saga
+
 C67 	100pF		Not Required for Saga
+
 C68-C71 100nF		Not Required for Saga
+
 C76 	22nF		Not Required for Saga
+
 C100	Not Fitted. 	For VHF 10nF
+
 C101 	Not Fitted. 	For VHF 22nF
+
 C102 	Not Fitted
+
 C103 	Not Fitted
 
+
 R17-R23 470R		Issue 5 Only?
+
 R24 	1K		If TR3 is KSC839 should be 15K
+
 R33 	680R		For Saga 560R
+
 R34 	15R 0.5/1W
+
 R48 	2K2		Not Required for Saga
+
 R49 	10K		Not Required for Saga
+
 R50 	4K7		Not Required for Saga
+
 R51 	2K2		For Saga 1K2
+
 R56 	1K		Not Required for Saga
+
 R63 	1K		Not Required for Saga
+
 R65-R67 10K		Not Required for Saga
+
 R68 	6K8		Not Required for Saga
+
 R69 	10K		Not Required for Saga
+
 R73 	1K		Not Required for Saga
+
 R74/R75 10K		Not Required for Saga
+
 R76/R77 1K		Not Required for Saga
+
 R80-R86 1K		Issue 5 Only?
 
 
