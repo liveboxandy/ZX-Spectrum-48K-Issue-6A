@@ -1,0 +1,247 @@
+(footprint "CP_Axial_L11.0mm_D6.0mm_P20.00mm_Horizontal"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "CP, Axial series, Axial, Horizontal, pin pitch=20mm, length*diameter=11*6mm^2, Electrolytic Capacitor")
+	(tags "CP Axial series Axial Horizontal pin pitch 20mm length 11mm diameter 6mm Electrolytic Capacitor")
+	(property "Reference" "REF**"
+		(at 9 -4.12 0)
+		(layer "F.SilkS")
+		(uuid "d1d9b06e-ac2e-4875-8b64-c8c1098d9aff")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CP_Axial_L11.0mm_D6.0mm_P20.00mm_Horizontal"
+		(at 9 4.12 0)
+		(layer "F.Fab")
+		(uuid "29851a61-743d-4330-ab85-865041bd6791")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c85d076c-bca2-474c-aa0f-cffc1f7a0cde")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Capacitor Aluminium Electrolytic"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7907402d-fe9b-4249-a613-22934b13a6e0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -1.45 -3.25)
+		(end 21.77 3.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "f0686408-7b67-4459-9e33-62c9e321e7ca")
+	)
+	(fp_line
+		(start 1.44 0)
+		(end 3.5 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f49582dc-9e4a-4e6c-8240-8910ab17d7ba")
+	)
+	(fp_line
+		(start 3.5 -3)
+		(end 3.5 3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0b994ad5-59bd-450a-a99d-81b05632673d")
+	)
+	(fp_line
+		(start 3.5 -3)
+		(end 5.18 -3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6ae09074-df2c-475d-b76e-d07b4f6bdc23")
+	)
+	(fp_line
+		(start 3.5 3)
+		(end 5.18 3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3f6e0624-5cd3-48a5-8ec1-008b28b52226")
+	)
+	(fp_line
+		(start 5.18 -3)
+		(end 6.08 -2.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e8561b60-b83a-4946-b6a9-47ac9ed6ea16")
+	)
+	(fp_line
+		(start 5.18 3)
+		(end 6.08 2.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e23d47a1-d447-4dcb-8514-d677be729644")
+	)
+	(fp_line
+		(start 5.2 0)
+		(end 7 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7aeb8c48-4760-488f-978e-a27373df58af")
+	)
+	(fp_line
+		(start 6.08 -2.1)
+		(end 6.98 -3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "49a114d5-08fb-435d-bb2b-22a72c6674a7")
+	)
+	(fp_line
+		(start 6.08 2.1)
+		(end 6.98 3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "af417700-495a-40cd-b3e6-a1875dbeed9b")
+	)
+	(fp_line
+		(start 6.1 -0.9)
+		(end 6.1 0.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "619f8574-142b-4a0b-bf21-9077037cccb0")
+	)
+	(fp_line
+		(start 6.98 -3)
+		(end 14.5 -3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a3b10ed4-9288-4fa3-ad4d-53192e150c0a")
+	)
+	(fp_line
+		(start 6.98 3)
+		(end 14.5 3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4f2bfb39-fc85-4964-9d65-8e1a81c0fed1")
+	)
+	(fp_line
+		(start 14.5 -3)
+		(end 14.5 3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b45f648e-d2a0-4f10-8ca2-009ea7cb17b9")
+	)
+	(fp_line
+		(start 18.5 0)
+		(end 14.5 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8db31ca2-734f-41c9-97e0-ea3b49e4f185")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 9 0 0)
+		(layer "F.Fab")
+		(uuid "a63d0463-b0b1-4b8d-9d3d-79620f735be8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 2 2)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "6257351f-c2cb-422f-9f68-5fbad8b82d66")
+	)
+	(pad "2" thru_hole circle
+		(at 20 0)
+		(size 2 2)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c436d09f-fbb3-49e2-945e-4204f5dd676a")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/STPS/CP 13x5x0.5x20.32.STEP"
+		(offset
+			(xyz 10 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)

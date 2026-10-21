@@ -1,0 +1,137 @@
+(footprint "C_Axial_L3.8mm_D2.6mm_P12.40mm_Horizontal"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "C, Axial series, Axial, Horizontal, pin pitch=12.7mm, length*diameter=3.8*2.6mm^2, http://www.vishay.com/docs/45231/arseries.pdf")
+	(tags "C Axial series Axial Horizontal pin pitch 12.7mm  length 3.8mm diameter 2.6mm")
+	(property "Reference" "REF**"
+		(at 6.35 0 0)
+		(layer "F.SilkS")
+		(uuid "12567817-c792-4c72-b67d-4ce4f0fd12c1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "C_Axial_L3.8mm_D2.6mm_P12.40mm_Horizontal"
+		(at 6.35 2.42 0)
+		(layer "F.Fab")
+		(uuid "cde80889-abfc-45d8-9cc5-ec476fea89ad")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.vishay.com/doc?45164"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fb057dfb-b29c-4afe-9656-9fd8b0de4f84")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Capacitor Ceramic MLCC"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fa8aa9e4-db24-4bb7-a534-3ef4f2a61e57")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -1.05 -1.45)
+		(end 13.45 1.45)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "00d8d436-b757-4d46-8b9b-0dbb157103d2")
+	)
+	(fp_line
+		(start 0 0)
+		(end 4.45 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "55c9ea7f-fea2-4d49-939f-4beee82d62af")
+	)
+	(fp_line
+		(start 12.4 0)
+		(end 8.25 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "26515ffc-b3b7-4ce4-a903-bef6179fea00")
+	)
+	(fp_rect
+		(start 4.45 -1.25)
+		(end 8.25 1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "fc947933-0087-4df1-a25a-5be69c5bc247")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 6.35 0 0)
+		(layer "F.Fab")
+		(uuid "e86c3719-e385-429b-bf51-d8ad3f9ed1ca")
+		(effects
+			(font
+				(size 0.76 0.76)
+				(thickness 0.114)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 1.6 1.6)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "51adb91a-83d0-4cea-af4a-650343fdda5d")
+	)
+	(pad "2" thru_hole circle
+		(at 12.4 0)
+		(size 1.6 1.6)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "a54e3775-b5ad-4f3e-aced-0a819b68e965")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/STPS/Capacitor Ceramic No Polarity axial 12.70.STEP"
+		(offset
+			(xyz 6.15 0 -1)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)
