@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "ZXSpectrumIssue6A") (type "KiCad") (uri "${KIPRJMOD}/Sym/ZXSpectrumIssue6A.kicad_sym") (options "") (descr ""))
+)
